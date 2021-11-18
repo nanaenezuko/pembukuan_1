@@ -1,0 +1,70 @@
+.content-1 {
+  margin-top: 75px; }
+
+.color-primary {
+  color: #3598db; }
+
+#page-title {
+  color: #3598db;
+  text-align: center;
+  margin: 25px 0; }
+
+.custom-round {
+  border-radius: 20px; }
+
+.sub-menu-page {
+  text-align: center;
+  margin: 15px 0; }
+
+#menu-title {
+  color: black; }
+
+.form-header {
+  color: white;
+  text-align: center; }
+
+.print-header {
+  color: white;
+  text-align: center;
+  padding: 20px; }
+
+.navbar {
+  box-shadow: 2px 4px 30px -5px rgba(0, 0, 0, 0.54);
+  -webkit-box-shadow: 2px 4px 30px -5px rgba(0, 0, 0, 0.54);
+  -moz-box-shadow: 2px 4px 30px -5px rgba(0, 0, 0, 0.54); }
+
+.card-wrapping {
+  border-color: #3598db;
+  padding: 20px;
+  color: #3598db; }
+
+.card-menu {
+  padding: 0px; }
+
+.menu-icon {
+  max-width: 200px;
+  margin: auto;
+  display: block;
+  color: #3598db; }
+
+.btn-edit-file {
+  margin: 7px; }
+
+.text-white {
+  color: white; }
+
+.btn-print {
+  display: block;
+  margin: auto;
+  margin-top: 10px; }
+
+.form-page {
+  margin: 20px; }
+
+.table-database {
+  margin-top: 30px; }
+
+.table-data {
+  margin: 20px 0; }
+
+/*# sourceMappingURL=main.css.map */

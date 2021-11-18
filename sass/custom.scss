@@ -1,0 +1,14 @@
+@import "variables";
+@import "extends";
+@import "mixins";
+
+$theme-colors: (
+  "primary":    $brand-primary,
+  "secondary":  $brand-gray
+);
+
+$offcanvas-color: white;
+$offcanvas-horizontal-width:        325px;
+$border-radius:               .25rem;
+
+@import "../bootstrap/scss/bootstrap";
